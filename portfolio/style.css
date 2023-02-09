@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+    background-repeat: no-repeat;
+    background-position: top 50px right 30%;
+    background-image: url("./img.png");
+    background-size: 250px;
+}
+h1,h2,h3,h4{
+    color: white;
+}
+span{
+    color: rgb(240, 39, 39);
+}
+ul,pre{
+    color:white;
+}
+ul{
+    list-style-type:circle;
+}
+.education{
+    display: flex;
+}
+#pos{
+    padding-left: 100px;
+}
